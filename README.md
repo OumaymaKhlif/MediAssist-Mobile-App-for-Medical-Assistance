@@ -70,7 +70,8 @@ Lancer l’application sur un émulateur Android ou un appareil physique.
 
 👩‍💻 **Eya Zouche**
 
-✅ Conclusion
+
+
 MediAssist propose une solution moderne, intuitive et complète pour la gestion médicale personnelle.
 Grâce à son interface conviviale et ses fonctionnalités avancées, elle aide les utilisateurs à mieux suivre leur santé et améliorer leur bien-être global.
 
