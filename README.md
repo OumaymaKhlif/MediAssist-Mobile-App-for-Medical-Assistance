@@ -65,7 +65,9 @@ Ouvrir le projet dans Android Studio.
 Lancer l’application sur un émulateur Android ou un appareil physique.
 
 🧑‍💻 Équipe de Développement
+
 👩‍💻 **Oumayma Khlif**
+
 👩‍💻 **Eya Zouche**
 
 ✅ Conclusion
