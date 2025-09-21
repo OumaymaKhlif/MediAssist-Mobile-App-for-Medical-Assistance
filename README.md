@@ -58,7 +58,7 @@ Architecture modulaire avec séparation claire :
 
 1. Cloner le dépôt :  
    ```bash
-   git clone https://github.com/votre-nom/MediAssist.git
+   git clone https://github.com/OumaymaKhlif/MediAssist-Mobile-App-for-Medical-Assistance.git
    cd MediAssist
 Ouvrir le projet dans Android Studio.
 
